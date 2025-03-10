@@ -6,7 +6,7 @@
 
 BunnyBot is a **cute, fun, and powerful Discord bot** designed to make your server more **lively, safe, and entertaining**! Whether you need **moderation tools**, **fun games**, **memes**, or **high-quality music**, BunnyBot has you covered! 🎶
 
-[![Add BunnyBot](https://discord.com/oauth2/authorize?client_id=1348709050170478642&permissions=8&integration_type=0&scope=bot)
+[![Add BunnyBot] (https://imgs.search.brave.com/0GPlYAwnmGEcSKZ5ASpKG8sdYfweU-nHxhHuk6kohVI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzRiLzE2/LzNiLzRiMTYzYjgz/N2EwOGE1NzFlOTA4/MWQ2Njg3NGE1M2Jj/LmpwZw)](https://discord.com/oauth2/authorize?client_id=1348709050170478642&permissions=8&integration_type=0&scope=bot)
 
 ---
 
