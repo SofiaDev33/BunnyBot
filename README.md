@@ -1,6 +1,6 @@
 # BunnyBot
 🎀 BunnyBot 🎀 — Your cute all-in-one Discord buddy! 💖🐰  BunnyBot brings fun, chaos, and good vibes to your server! 💬 From moderation tools 🛡️ to fun games, memes, and music 🎶, it's packed with everything to keep your server lively! 🎲🎧  💌 Add BunnyBot now and let the adorable chaos begin! 💕🎀
-![BunnyBot Banner](https://your-banner-image-link-here.com)
+![BunnyBot Banner](https://i.pinimg.com/originals/c6/b3/5c/c6b35c4e49ea74383af193249ea7ddc8.jpg)
 
 # 🎀 BunnyBot 🐰 — Your Adorable Discord Companion!
 
